@@ -1,0 +1,53 @@
+#signupModalLabel {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.signupFormGroup {
+    width: 50%;
+}
+
+.signupFormControl::placeholder {
+    text-align: right;
+}
+
+.signupFeedback {
+    text-align: center;
+}
+
+#uploadImageButton {
+    border-radius: 5px;
+    background-color: rgb(77, 77, 252);
+    color: black;
+}
+
+#uploadImageButton:hover {
+    border-radius: 5px;
+    background-color: rgb(57, 57, 248);
+    color: black;
+}
+
+#imageUploadInput {
+    display: none;
+}
+
+#signupButton {
+    width: 35%;
+    height: 100%;
+    border-radius: 5px;
+    border-color: transparent;
+    background: none;
+    background-color: rgb(0, 128, 0);
+    color: white;
+    font-weight: bold;
+}
+
+#signupButton:hover {
+    background: fixed;
+    background-color: rgb(1, 159, 1);
+    color: white;
+}
+
+#signupSuccessfulToast {
+    width:20%
+}

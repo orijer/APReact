@@ -1,0 +1,48 @@
+.closeCreationButton {
+    background-color: lightgrey;
+    border-radius: 50px;
+}
+
+.dark-mode .closeCreationButton {
+    background-color: var(--third-color);
+}
+
+.dark-mode .modal-content {
+    background-color: var(--secondary-color);
+    border-color: blue;
+    border-width: 5px;
+}
+
+.publishPostButton {
+    font-weight: bold;
+}
+
+.publishPostButton:disabled {
+    background-color: #e4e6eb;
+    border-color: #e4e6eb;
+    color: #a1a4a7;
+}
+
+.dark-mode .publishPostButton:disabled {
+    background-color: #a1a3a6;
+    border-color: #a1a3a6;
+    color: #76787a;
+}
+
+.postCreationTextArea {
+    width: 100%;
+    height: 100%;
+    resize: none;
+    border-width: 0;
+    background: transparent;
+    color: var(--text-color);
+}
+
+.noResize {
+    /* maybe delete this, check if something uses this!!*/
+    resize: none;
+}
+
+.imageUploadInput {
+    display: none;
+}

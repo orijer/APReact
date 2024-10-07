@@ -1,0 +1,18 @@
+/* styles.css */
+.button-background {
+    background-color: none(255, 254, 254); /* Example background color */
+  }
+
+.button-background:hover {
+    background-color: #e4e6e8; /* Background color on hover */
+  }
+.button-text-right {
+    text-align: right; /* Align text to the left */
+    font-weight: bold;  /*Make the text bolder */
+    font-size: 0.7 rem; /* Make the text slightly bigger */
+    font-family: 'Roboto', sans-serif;
+    height: 60px
+}
+.dark-mode .button-text-right {
+  color: #fff; 
+}

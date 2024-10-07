@@ -1,0 +1,62 @@
+[
+	{
+		"id": "Feed",
+		"color": "secondary",
+		"label": "פיד",
+		"button_img": "feeds"
+	},
+	{
+		"id": "friendsButton",
+		"color": "secondary",
+		"label": "חברים",
+		"button_img": "friends"
+	},
+	{
+		"id": "Button 2",
+		"color": "secondary",
+		"label": "זיכרונות",
+		"button_img": "memories"
+	},
+	{
+		"id": "Button 4",
+		"color": "secondary",
+		"label": "מנהל המודעות",
+		"button_img": "graph"
+	},
+	{
+		"id": "Button 5",
+		"color": "secondary",
+		"label": "מרכז חקר האקלים",
+		"button_img": "seed"
+	},
+	{
+		"id": "Button 6",
+		"color": "secondary",
+		"label": "שמורים",
+		"button_img": "bookmark"
+	},
+	{
+		"id": "Button 7",
+		"color": "secondary",
+		"label": "קבוצות",
+		"button_img": "groups"
+	},
+	{
+		"id": "Button 8",
+		"color": "secondary",
+		"label": "סרטון",
+		"button_img": "clip"
+	},
+	{
+		"id": "Button 9",
+		"color": "secondary",
+		"label": "Marketplace",
+		"button_img": "marketplace"
+	},
+	{
+		"id": "Button 10",
+		"color": "secondary",
+		"label": "אירועים",
+		"button_img": "calender"
+	}
+]

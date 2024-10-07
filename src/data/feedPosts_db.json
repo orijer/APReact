@@ -1,0 +1,190 @@
+[
+    {
+        "id": 1,
+        "author_name": "ynet",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "RTL",
+        "post_text": "גם אסם מעלה מחירים: קטשופ, טבעול וסלטי צבר יתייקרו בעד 9% >>> https://www.ynet.co.il/economy/article/byfk8g0096",
+        "post_img": "",
+        "date": "2/2/2024",
+        "likes": 6,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "Dan",
+                "comment_text": "שוב מעלים מחירים???????"
+            },
+            {
+                "id": 2,
+                "author_name": "רון",
+                "comment_text": "כבר לא קונה אסם יותר מצאתי הרבה תחליפים זולים להכל חוץ מבמבה!"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "author_name": "Netflix",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "RTL",
+        "post_text": "העונה החדשה של משחקי הכס עולה ב 30.2.2024, ובה יתקנו את כל מה שהרסו בעונה 8!",
+        "post_img": "",
+        "date": "2/2/2024",
+        "likes": 100,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "דוד",
+                "comment_text": "סוף סוף!!!! חיכיתי לזה שנים!!! הגיע הזמן שהם יתקנו את מה שקרה בעונה האחרונה..."
+            },
+            {
+                "id": 2,
+                "author_name": "דור",
+                "comment_text": "רגע אבל אין תריך כזה 30.2.2024, אז מתי זה עולה?????"
+            },
+            {
+                "id": 3,
+                "author_name": "יוסף",
+                "comment_text": "וואוו מרגש!!!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "author_name": "Bar Ilan",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "RTL",
+        "post_text": "בואו לראות את האתר המדהים שהכנו במהלך הקורס תכנות מערכות מתקדם!",
+        "post_img": "https://upload.wikimedia.org/wikipedia/he/thumb/b/b0/Bar_Ilan_logo.png/1200px-Bar_Ilan_logo.png?20200504110104",
+        "date": "2/2/2024",
+        "likes": 52,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "אורי",
+                "comment_text": "נראה לי שיצא לא רע בכלל, מה אתם חושבים?"
+            },
+            {
+                "id": 2,
+                "author_name": "אריאל",
+                "comment_text": "כן וואוו יצה ממש יפה, כל הכבוד לנו!"
+            },
+            {
+                "id": 3,
+                "author_name": "הראל",
+                "comment_text": "זה נראה יותר טוב מפייסבוק האמיתי!"
+            },
+            {
+                "id": 4,
+                "author_name": "facebook",
+                "comment_text": "רגע זה לא האתר שלנו????????"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "author_name": "ynet",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "LTR",
+        "post_text": "Elon Musk says 1st Neuralink brain chip implanted in a human >>> https://www.ynetnews.com/health_science/article/rjj8mx856",
+        "post_img": "https://ynet-pic1.yit.co.il/cdn-cgi/image/format=auto/picserver5/crop_images/2023/06/16/Bk11wWzf5Dn/Bk11wWzf5Dn_0_0_1000_563_0_x-large.jpg",
+        "date": "2/2/2024",
+        "likes": 0,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "יובל",
+                "comment_text": "וואוו, מרשים מאוד! כל הכבוד להם"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "author_name": "אורי",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "RTL",
+        "post_text": "תראו איזה פוסט מדהים אני כותב! יש בו אפילו תמונה! שלום לך בודק יקר, מה שלומך?",
+        "post_img": "https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_640.jpg",
+        "date": "2/2/2024",
+        "likes": 9000,
+        "comments": []
+    },
+    {
+        "id": 6,
+        "author_name": "Joe Smith",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "LTR",
+        "post_text": "Just finished watching Avengers 7 for the first time. It is definitely in my top 5 films! I didn't just made it up! The action was insane, and the CGI is even better then Spiderman 7.",
+        "post_img": "",
+        "date": "2/2/2024",
+        "likes": 3,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "IGN",
+                "comment_text": "7/10"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "author_name": "Plony Almony",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "RTL",
+        "post_text": "היה לי יום נהדר עם המשפחה. יצאנו לטיול, עשינו פיקניק, ואכלנו מלא מלא פנקייקים!",
+        "post_img": "https://previews.123rf.com/images/lanasvitankova/lanasvitankova1603/lanasvitankova160300029/54977273-strawberry-pancakes-for-picnic-on-the-grass-horizontal.jpg",
+        "date": "2/2/2024",
+        "likes": 1,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "איתי",
+                "comment_text": "וואוו פלוני, מי הכין את הפנקייקים האלה??"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "author_name": "דרושים",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "RTL",
+        "post_text": "דרושים מפתחי תוכנה מעולים שיודעים הכל והם כל כך טובים שהאתר שלהם נראה בול כמו פייסבוק.",
+        "post_img": "",
+        "date": "2/2/2024",
+        "likes": 13,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "Ori",
+                "comment_text": "I'm in!"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "author_name": "Razer",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "LTR",
+        "post_text": "The Razer Edge is powered by the Qualcomm Snapdragon G3X processor designed for gaming so you can expect the best performance when you boot up your favorite AAA games on the go. Elevate your mobile gaming experience today",
+        "post_img": "https://www.y-not.co.il/images/itempics/uploads/media_20082023135747.jpg?rnd=0.09125054923190068",
+        "date": "2/2/2024",
+        "likes": 42,
+        "comments": []
+    },
+    {
+        "id": 10,
+        "author_name": "facebook",
+        "author_img": "/default_profile_pic.svg",
+        "post_text_dir": "RTL",
+        "post_text": "שלום, זו ההנהלה של פייסבוק מדברת. אנחנו מאוד לא מרוצים מכמה האתר שלכם דומה לפייסבוק האמיתית, ומתכננים לטבוע אתכם בהקדם האפשרי. בהצלחה.",
+        "post_img": "",
+        "date": "2/2/2024",
+        "likes": 0,
+        "comments": [
+            {
+                "id": 1,
+                "author_name": "Ori",
+                "comment_text": "lol."
+            }
+        ]
+    }
+]

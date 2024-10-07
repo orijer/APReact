@@ -1,0 +1,21 @@
+.commentWriteTextArea {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 94%;
+    resize: none;
+    background-color: var(--background-color);
+    border: none;
+    border-radius: 10px;
+    text-align: right;
+    height: 15vh;
+    padding-right: 10px;
+    color: var(--text-color);
+}
+
+.commentWriteTextArea:focus {
+    outline: none;
+}
+
+.dark-mode .commentWriteTextArea {
+    background-color: var(--third-color);
+}

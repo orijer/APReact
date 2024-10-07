@@ -1,0 +1,8 @@
+.deleteFriendButton {
+    background: none;
+    border-radius: 50%;
+}
+
+.deleteFriendButton:hover {
+    background-color: var(--third-color);
+}

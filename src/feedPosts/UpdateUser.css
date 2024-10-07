@@ -1,0 +1,14 @@
+.input-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-group button, input {
+    height: 7vh;
+    width: 65%;
+}
+
+.input-group input::placeholder {
+    text-align: right;
+}
